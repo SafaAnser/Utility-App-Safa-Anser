@@ -85,8 +85,7 @@ def money(total_cost,order_list):
                     break #will stop here if the user enterred greater or equal to total cash
                 else:# only works if user input is smaller than total cost
                     balance= total_cost - user
-                    print(f'\n you have only inputted ${user}, please input the correct amount or more')#prints that the user needs more amount 
-                      
+                    print(f'\n you have only inputted ${user}, the amount is insufficient to cover the total cost')#prints that the user needs enough to cover the total cost
             except ValueError: 
                 print('\n Invalid input, please enter a valid number') #prints error if user enters anything other than number
 
