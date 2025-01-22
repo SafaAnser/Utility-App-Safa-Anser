@@ -1,5 +1,5 @@
 
-#creating list of products using dictionary of dictionary 
+#creating list of products using nested dictionary 
 products = {
     'Sandwich': {
         'D1': ('chicken', 3),
