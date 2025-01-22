@@ -3,9 +3,9 @@
 products = {
     'Sandwich': {
         'A1': ('chicken',3),
-        'A2':('tuna', 3.50),
-        'A3':('vegtable', 2),
-        'A4':('cheese',2)
+        'A2': ('tuna', 3.50),
+        'A3': ('vegtable', 2),
+        'A4': ('cheese',2)
     }, 
     'Chips': {
         'B1': ('sohar',2.50),
