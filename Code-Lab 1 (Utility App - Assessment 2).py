@@ -2,34 +2,34 @@
 #creating list of products using nested dictionary 
 products = {
     'Sandwich': {
-        'D1': ('chicken', 3),
-        'D2': ('tuna', 3.50),
-        'D3': ('vegtable', 2),
-        'D4': ('cheese',2)
-    },
+        'A1': ('chicken',3),
+        'A2':('tuna', 3.50),
+        'A3':('vegtable', 2),
+        'A4':('cheese',2)
+    }, 
     'Chips': {
-        'A1': ('sohar', 2.50),
-        'A2': ('ruffles', 4),
-        'A3': ('salad', 1),
-        'A4': ('pringles',4.50)
+        'B1': ('sohar',2.50),
+        'B2': ('ruffles', 4),
+        'B3': ('salad', 1),
+        'B4': ('pringles',4.50)
     },
     'Biscuits': {
-        'E1': ('oreo', 2.50),
-        'E2': ('biscoff', 3),
-        'E3': ('parle g', 1.50),
-        'E4': ('cookie monsta',1.75)
+        'C1': ('oreo', 2.50),
+        'C2': ('biscoff', 3),
+        'C3': ('parle g', 1.50),
+        'C4': ('cookie monsta',1.75)
     },
     'Chocolates': {
-        'B1': ('minstrels', 4),
-        'B2': ('m&m',3.50),
-        'B3': ('kitkat', 1.50),
-        'B4': ('flakes', 2)
+        'D1':('minstrels', 4),
+        'D2': ('m&m',3.50),
+        'D3': ('kitkat', 1.50),
+        'D4': ('flakes', 2)
     },
     'Drinks': {
-        'C1': ('cola', 2.50),
-        'C2': ('pepsi', 2.50),
-        'C3': ('dew', 2.50),
-        'C4': ('water', 1)
+        'E1': ('cola', 2.50),
+        'E2': ('pepsi', 2.50),
+        'E3': ('dew', 2.50),
+        'E4': ('water', 1)
     },
 }
 
